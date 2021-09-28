@@ -1,5 +1,6 @@
 == Chapter 3
 
+[.centered]
 === First Month, 1793.
 
 1st. Another year begun, and I doubt but small advance in the heavenly race;
@@ -43,6 +44,7 @@ O, that I could rest here,
 humbly thankful for the many blessings I enjoy beyond thousands,
 and how unworthy thereof I cannot but acknowledge with confusion of face.
 
+[.centered]
 === Second Month, 1793.
 
 2nd. Came home, on hearing my dear father was confined with the gout:
@@ -74,7 +76,8 @@ and say, "`hitherto has the Lord helped me,`" blessed be his worthy name forever
 and perfect holiness arose in my retirement today,
 and I was favoured with a little access to the fountain of living waters.
 
-=== Third Month, 1793,
+[.centered]
+=== Third Month, 1793.
 
 3rd. A precious season at meeting this morning.
 May this renewed favour excite to more vigilance and circumspection,
@@ -154,6 +157,7 @@ and cannot but acknowledge it a favour that we had the company
 of some valuable friends on this solemn occasion,
 particularly dear Job Scott, whose company was truly acceptable.
 
+[.centered]
 === Fourth Month, 1793.
 
 1st. Our quarterly meeting (at Guildford).
@@ -204,6 +208,7 @@ at least, I desire to do it.
 and though far from unprofitable company,
 yet I always find visiting about dissipates the mind.
 
+[.centered]
 === Fifth Month, 1793.
 
 1st. Was at the week-day meeting at Alton, this morning,
@@ -248,6 +253,7 @@ and some seasons of sweet refreshment have been mercifully vouchsafed.
 May renewed vigilance and circumspection denote the
 deep sense I retain of such unmerited favours.
 
+[.centered]
 === Sixth Month, 1793.
 
 3rd. Have been favoured, in my solitary sitting this evening,
@@ -295,6 +301,7 @@ O, that it might prevail on some,
 who I believe have strayed far from the true sheep-fold,
 to return while the day of mercy lasts.
 
+[.centered]
 === Seventh Month, 1793.
 
 3rd. Have felt the attacks of an unwearied enemy to draw my mind from its true centre,
@@ -321,6 +328,7 @@ if too much indulged, may be hurtful to me;
 yet I have frequently breathed to the Lord for preservation
 within the limiting power of Truth.
 
+[.centered]
 === Eighth Month, 1793.
 
 2nd. Went to our monthly meeting:
@@ -355,6 +363,7 @@ which can alone preserve from the snares of death.
 yet my mind has, at times, been enabled to retire to the true centre,
 where I have felt quiet.
 
+[.centered]
 === Ninth Month, 1793.
 
 11th. Spent too much time today in unprofitable reading.
@@ -382,6 +391,7 @@ where my thirsty panting soul was replenished with celestial rain.
 which I hope I was truly thankful for;
 as well as for renewed assistance to approach the alone Physician of value.
 
+[.centered]
 === Tenth Month, 1793.
 
 12th. Reached London after a fatiguing journey all night;
@@ -412,6 +422,7 @@ and who best knows how to dispense suitably to his dependant creatures.
 He is indeed an inexhaustible fountain;
 and in his hand are the hidden treasures of wisdom.
 
+[.centered]
 === Eleventh Month, 1793.
 
 7th. This last week confined by illness;
@@ -465,6 +476,7 @@ I cannot but mourn the church`'s loss, and his dear children`'s, though unknown 
 yet we must not call in question the dispensations of Providence, though,
 to us finite creatures, they may be past finding out.
 
+[.centered]
 === Twelfth Month, 1793.
 
 6th. Oh, the crucifying power of Jesus, how hard to flesh and blood!

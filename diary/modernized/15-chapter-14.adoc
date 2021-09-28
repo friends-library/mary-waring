@@ -1,5 +1,6 @@
 == Chapter 14
 
+[.centered]
 === First Month, 1804.
 
 1st. The vision of Jacob`'s ladder, and the angels ascending and descending thereon,
@@ -53,6 +54,7 @@ whom she endeavoured to encourage to come forward in the Christian race:
 concluding with this passage, "`Come up here, I will show you the bride,
 the Lamb`'s wife.`"
 
+[.centered]
 === Second Month, 1804.
 
 12th. A variety of circumstances have combined within
@@ -79,6 +81,7 @@ being also near, showed me my folly; to whom I cried for deliverance,
 and was enabled to press through and touch the hem of his garment,
 and found healing virtue to flow from him.
 
+[.centered]
 === Third Month, 1804.
 
 3rd. Much beset with evil:
@@ -131,6 +134,7 @@ yet not I trust to the entire neglect of the one thing needful.
 May I ever choose this better part, and then I have faith to believe,
 it will never be taken from me.
 
+[.centered]
 === Fourth Month, 1804.
 
 1st. Some renewal of my spiritual strength.
@@ -173,6 +177,7 @@ but, that the food most convenient for me might be graciously dispensed.
 29th. Instructive seasons to my waiting soul,
 were both the morning and afternoon meetings.
 
+[.centered]
 === Fifth Month, 1804.
 
 1st. Humbled under some affecting considerations.
@@ -209,6 +214,7 @@ We separated under a precious solemn covering, and I believe the humble,
 grateful language of many minds was, What shall we render unto you, O Lord,
 for all your benefits?
 
+[.centered]
 === Sixth Month, 1804.
 
 4th. Came home in health, and found my be loved mother so; for which favour,
@@ -262,6 +268,7 @@ What a mercy!
 30th. A rather more favourable account of my beloved sister.
 May we be sufficiently thankful.
 
+[.centered]
 === Seventh Month, 1804.
 
 1st. Rather a conflicting season at meeting this morning; the evening was more lively.
@@ -309,13 +316,13 @@ and led me to crave preservation from every snare of an unwearied enemy.
 and hoped things might turn out better than we had reason to fear,
 so that I could adopt the following lines:
 
+[verse]
+____
 This day, be bread and peace my lot:
-
 All else beneath the sun,
-
 Thou know`'st if best bestowed or not,
-
 And let thy will be done.
+____
 
 20th. Went to meeting with a mind much unencumbered, hoping for a good meeting;
 but found I was not to eat the bread of idleness, nor did I desire to do so;
@@ -332,6 +339,7 @@ a little above the encumbering cares of this life,
 and renew my spiritual strength, this morning in our silent meeting;
 which I esteemed a great favour, after so harassing a time.
 
+[.centered]
 === Eighth Month, 1804.
 
 5th. Was favoured sweetly to repose all my cares in Him,
@@ -377,6 +385,7 @@ the reproach she has brought on friends and the Truth.
 30th. A time of sweet solace in the week-day meeting,
 a favour I esteemed myself unworthy of.
 
+[.centered]
 === Ninth Month, 1804.
 
 1st. Returned home in health and with a peaceful mind.
@@ -451,6 +460,7 @@ to the lifting up of my head, and confirming my feeble knees.
 Thus bountifully is the Lord dealing with one of the meanest of his creatures.
 May I ever live to praise and adore his excellent name.
 
+[.centered]
 === Tenth Month, 1804.
 
 5th. Our monthly meeting at Guildford,
@@ -491,6 +501,7 @@ He is not saying to the seed of Jacob, "`Seek me in vain.`"
 28th. Rather stripping seasons in both morning and afternoon meetings.
 I desired to hunger and thirst patiently.
 
+[.centered]
 === Eleventh Month, 1804.
 
 2nd. This morning unexpectedly dear William Jackson (of Pennsylvania) came,
@@ -559,6 +570,7 @@ In the afternoon mourning was my portion.
 yet encompassed with fears, lest it should fall short.
 May the Lord be my refuge in the day of trouble, and then let come what will come.
 
+[.centered]
 === Twelfth Month, 1804.
 
 1st. Still moving heavily on my way; discouragements from within and without;

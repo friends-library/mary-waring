@@ -130,6 +130,9 @@ and it goes to make the reader acquainted with the inward recesses of her mind.
 Of her birth, her youth, her general habits, and of her closing moments,
 let maternal love declare, as follows:
 
+[.embedded-content-document.testimony]
+--
+
 My beloved daughter Mary Waring was born the 20th of Third Month, 1760.
 From a child, she was of an amiable disposition;
 but being naturally of a very lively turn, she appeared fond of company,
@@ -212,4 +215,7 @@ and the example she has set them of submitting to the cross; that, like her,
 they may become useful in their lives, and close their days in perfect peace,
 is the ardent desire of
 
+[.signed-section-signature]
 Sarah Waring
+
+--

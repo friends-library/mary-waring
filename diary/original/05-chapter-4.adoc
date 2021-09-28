@@ -1,5 +1,6 @@
 == Chapter 4
 
+[.centered]
 === First Month, 1794.
 
 3rd. Attended our monthly meeting today.
@@ -58,6 +59,7 @@ and the prayer of my heart was,
 that the pharisaical disposition might never be entertained by me: pour creature as I am,
 much more need have I to exclaim with the publican, "`God be merciful to me a sinner.`"
 
+[.centered]
 === Second Month, 1794.
 
 2nd. Felt the overshadowing of heavenly love,
@@ -95,6 +97,7 @@ that I could find scarcely any time for retirement.
 How tasteless and insipid is every enjoyment, that is not crowned with thy presence,
 O Lord!--I am thankful to feel it so.
 
+[.centered]
 === Third Month, 1794.
 
 1st. Wrote a letter of advice to a friend;
@@ -145,6 +148,7 @@ O my soul, when wilt thou learn wisdom?
 31st. Low, and I trust humble, under a sense of my failing yesterday;
 with renewed desires after more stability.
 
+[.centered]
 === Fourth Month, 1794.
 
 11th. A renewal of strength at our silent Weekday meeting.
@@ -177,6 +181,7 @@ Unmerited mercy!
 hath graciously begun in my heart) might not be marred on the wheel;
 but there is surely no safety but in unceasing watchfulness.
 
+[.centered]
 === Fifth Month, 1794.
 
 3rd. This morning rose early; and spent some hours in my chamber,
@@ -211,6 +216,7 @@ What can I render unto the Lord for all his blessings?
 was favoured with the springing up of the well of life,
 to my great refreshment this morning at meeting.
 
+[.centered]
 === Sixth Month, 1794.
 
 3rd. Felt sweetly peaceful when I awoke this morning;
@@ -286,6 +292,7 @@ yet several times in the day felt the attractive influence of divine love;
 so that I trust I am not forsaken.
 Encouraging belief!
 
+[.centered]
 === Seventh Month 1794.
 
 1st. Some trials of patience occurred;
@@ -321,7 +328,8 @@ spiritually awake, so as to unite in labour for the arising of life.
 15th. Feeling the bubblings up of the wellspring of life this evening,
 I retired into the garden, where I was enabled to sing unto it: inestimable favour!
 
-=== Ninth Month, 1794:
+[.centered]
+=== Ninth Month, 1794.
 
 27th. Have been confined eight weeks this day with a nervous fever;
 seven of which to my chamber, and mostly, to my bed.
@@ -350,6 +358,7 @@ my lukewarmness and my proneness to enter too much into the spirit of this world
 so that I see our blessed Lord`'s injunction, to watch and pray,
 was never more necessary than at the present time.
 
+[.centered]
 === Tenth Month, 1794.
 
 6th. (Alton) Several days have again elapsed without any remark,
@@ -378,6 +387,7 @@ and that I have been too much off my watch today.
 grace this morning in our silent gathering at meeting;
 and comforted in the renewed belief, that the glory is not yet departed from our Israel.
 
+[.centered]
 === Eleventh Month, 1794.
 
 2nd. Sat down at meeting this morning in much poverty and weakness;
@@ -406,6 +416,7 @@ being well convinced how imperfectly I perform my duties, both religious and soc
 28th. Favoured with the fresh descendings of celestial rain,
 in our little silent gathering this morning.
 
+[.centered]
 === Twelfth Month, 1794.
 
 3rd. "`Let him that thinketh he standeth take heed lest
