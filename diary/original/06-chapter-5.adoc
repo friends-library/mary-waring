@@ -1,5 +1,6 @@
 == Chapter 5
 
+[.centered]
 === First Month, 1795.
 
 1st. And now, O my soul,
@@ -34,6 +35,7 @@ yet think I have laboured after this attainment.
 
 30th. A good account of my dear sister.
 
+[.centered]
 === Second Month, 1795.
 
 2nd. A thoroughly busy day, leaving the mind but little leisure for spiritual improvement.
@@ -61,6 +63,7 @@ dispensing the bread of life to the hungry soul.
 O, for an increase of this excellent virtue;
 which enables to bear all things with meekness.
 
+[.centered]
 === Third Month, 1795.
 
 1st. Methought my mind resembled the barren heath
@@ -129,6 +132,7 @@ but in his wonted goodness he was pleased to walk on the sea, and command a calm
 so that my poor mind was brought into great quietness,
 and could in a good degree adopt the language of Thy will and not mine be done.
 
+[.centered]
 === Fourth Month, 1795.
 
 2nd. My dear father worse again; +++[+++he]
@@ -171,6 +175,7 @@ be still graciously pleased to watch over me,
 I shall yet, I fear, fall by the way: I love to feel my dependance,
 and from whence my help cometh.
 
+[.centered]
 === Fifth Month, 1795.
 
 3rd. Stayed at home with my father in the morning.
@@ -205,6 +210,7 @@ while the family were at meeting this morning.
 27th. A time of much anxiety, my dear father continuing in a very tried situation;
 I laboured, though I fear but feebly, after a thorough resignation to the divine will.
 
+[.centered]
 === Sixth Month, 1795.
 
 4th. More comfortable and quiet, for which favour I think I have been truly glad.
@@ -262,6 +268,7 @@ and of being preserved from harbouring any resentment, yet keeping firm,
 as the cause was not my own, and worthy +++[+++of]
 suffering for.
 
+[.centered]
 === Seventh Month, 1795.
 
 2nd. Have dwelt much in the valley these few days,
@@ -320,7 +327,8 @@ Yet even in this state +++[+++I]
 found the enemy near with evil suggestions, but keeping my eye single, +++[+++I]
 think he gained no advantage over me.
 
-=== Eighth Month, 1795
+[.centered]
+=== Eighth Month, 1795.
 
 6th. Went with Elizabeth Moline, by appointment of the monthly meeting,
 to read the yearly meeting`'s epistles in those friends`'
@@ -346,7 +354,8 @@ giving way to creaturely reasoning and fear.
 
 24th. My mind sweet and peaceful under some disquieting circumstances.
 
-=== Ninth Month, 1795
+[.centered]
+=== Ninth Month, 1795.
 
 1st. These several days pretty fully take up with my beloved father,
 who had another alarming seizure: under which trial I have felt, as heretofore,
@@ -399,6 +408,7 @@ David could give access to the fountain of life.
 27th. The enemy, ever busy to betray, drew me off my watch today at meeting;
 so that I sustained loss, which I lamented.
 
+[.centered]
 === Tenth Month, 1795.
 
 1st. The recollection of some weaknesses accompanied
@@ -453,6 +463,7 @@ me reason to hope my prayer would be answered.
 It is with a heart replete with gratitude that I
 thus commemorate the gracious dealings of the Lord.
 
+[.centered]
 === Eleventh Month, 1795.
 
 6th. My beloved father again seized with epilepsy.
@@ -495,6 +506,7 @@ I hope the reader will not think that they are mentioned as any thing meritoriou
 Far be it from me! well knowing how very imperfectly I fill up my various duties;
 and that the best of us are but unprofitable servants.
 
+[.centered]
 === Twelfth Month, 1795.
 
 6th. Favoured with near access to the throne of grace this morning in our silent meeting.

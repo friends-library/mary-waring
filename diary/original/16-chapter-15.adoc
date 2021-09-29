@@ -1,5 +1,6 @@
 == Chapter 15
 
+[.centered]
 === First Month, 1805.
 
 3rd. On my return home, +++[+++I]
@@ -65,6 +66,7 @@ so that I thought my offering was not equal to the
 turtle doves and pigeons under the law:
 yet believed it safest to obtrude nothing of my own.
 
+[.centered]
 === Second Month, 1805.
 
 1st. It continues to be a winter season with me.
@@ -124,6 +126,7 @@ fearing the day`'s work had not kept pace with the day.
 Sorrowful indeed would it be, if I should be found without oil in my lamp,
 when the midnight cry is sounded within my borders.
 
+[.centered]
 === Third Month, 1805.
 
 1st. Our select meeting this evening; we had the company of dear Sarah Hack,
